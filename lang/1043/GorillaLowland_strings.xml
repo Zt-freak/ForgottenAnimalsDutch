@@ -1,0 +1,188 @@
+<ZT2Strings>
+	<entityname>
+		<!-- animal names -->
+		<GorillaLowland>
+			Westelijke laaglandgorilla
+		</GorillaLowland>
+		<GorillaLowland_stt>
+			Westelijke laaglandgorilla
+		</GorillaLowland_stt>
+		<GorillaLowland_lower>
+			de Westelijke laaglandgorilla
+		</GorillaLowland_lower>
+		<GorillaLowland_ltt>
+			<color r="255" g="248" b="178">
+				<b>
+					Westelijke laaglandgorilla
+				</b>
+			</color>
+			<br />
+			Klik om een westelijke laaglandgorilla te selecteren en te plaatsen.
+		</GorillaLowland_ltt>
+		<!-- gift names -->
+		<GorillaLowland_Gift>
+			Westelijke laaglandgorillarugzak
+		</GorillaLowland_Gift>
+		<GorillaLowland_Gift_stt>
+			Westelijke laaglandgorillarugzak
+		</GorillaLowland_Gift_stt>
+		<GorillaLowland_Gift_lower>
+			de Westelijke laaglandgorillarugzak
+		</GorillaLowland_Gift_lower>
+		<GorillaLowland_Gift_ltt>
+			<color r="255" g="248" b="178">
+				<b>
+					Westelijke laaglandgorillarugzak
+				</b>
+			</color>
+			<br />
+			Bezoekers die graag naar de westelijke laaglandgorilla kijken, zullen dit souvenir kopen.
+		</GorillaLowland_Gift_ltt>
+	</entityname>
+	<zoopedia_gorillalowland>
+		<entry>
+			Westelijke laaglandgorilla
+		</entry>
+		<text>
+			<cell pady="0" width="1000" />
+			<p />
+			<cell width="260" />
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/GorillaLowland/GorillaLowland_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96" />
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16" />
+						</cell>
+						<cell width="156" />
+						<br />
+						<cell width="32" pady="0">
+							<img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32" />
+						</cell>
+						<cell width="224" padx="10" pady="0">
+							<color r="255" g="255" b="255">
+								Status in het wild:
+								<br />
+								<color r="255" g="0" b="0">
+									Kritiek
+								</color>
+							</color>
+						</cell>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">
+							Tropisch regenwoud
+							<br />
+						</color>
+						<img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96" />
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">
+							Afrika
+							<br />
+						</color>
+						<img src="ui/icon_maplocations/Rainforest_Africa.dds.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96" />
+					</cell>
+					<br />
+					<cell width="284" pady="10">
+						<color r="255" g="255" b="255">
+							Klasse: zoogdieren
+							<i>
+								(Mammalia)
+							</i>
+							<br />
+							Orde: pimaten
+							<i>
+								(Primata)
+							</i>
+							<br />
+							Familie: Homininden
+							<i>
+								(Hominidae )
+							</i>
+							<br />
+							Geslacht:
+							<i>
+								Gorilla
+							</i>
+							<br />
+							Species:
+							<i>
+								G. gorilla gorilla
+							</i>
+						</color>
+					</cell>
+					<cell width="256" pady="10">
+						<img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85" />
+					</cell>
+				</cell>
+			</cell>
+			<p />
+			<p />
+			<cell width="260" />
+			<cell width="300">
+				<cell width="64">
+					<img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64" />
+				</cell>
+				<cell width="176">
+					<color r="255" g="255" b="255">
+						<font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">
+							Interessante feiten over de westelijke laaglandgorilla
+						</font>
+					</color>
+				</cell>
+				<p />
+				<cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+					<p />
+					<cell width="32" pady="10">
+						<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+					</cell>
+					<cell width="202" pady="10">
+						<color r="255" g="255" b="255">
+              Volwassen mannetjes westelijke laaglandgorilla's kunnen tot 90 kilgram aan voedsel eten op een dag.
+						</color>
+					</cell>
+					<cell width="32" pady="10">
+						<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+					</cell>
+					<cell width="202" pady="10">
+						<color r="255" g="255" b="255">
+              Een westelijke laaglandgorilla die verbleef in een dierentuin in Birmingham, Alabama was de eerste gorilla die een kunstmatige pacemaker kreeg.
+						</color>
+					</cell>
+					<cell width="32" pady="10">
+						<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32" />
+					</cell>
+					<cell width="202" pady="10">
+						<color r="255" g="255" b="255">
+              De westelijke laaglandgorilla is de meestvoorkomende gorilla in dierentuinen.
+						</color>
+					</cell>
+				</cell>
+			</cell>
+			<cell width="340">
+				<color r="255" g="248" b="178">
+          De westelijke laaglandgorilla komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3 sterren behaalt.
+				</color>
+				<p />
+        De westelijke laaglandgorilla (Gorilla gorilla gorilla) is één van de twee ondersoorten van de westelijke gorilla (Gorilla gorilla) die leeft in gebergde gebieden, oerbossen, secundaire bossen en laaglandmoerassen in Centraal Afrika in Angola, Kameroen, Centraal Afrikaanse Republiek, Republiek Congo, Equatoriaal Guinea en Gabon. Het is de nominaat van de westelijke gorilla en de kleinste van de vier ondersoorten van de gorilla.
+				<p />
+        De westelijke laaglandgorilla is de kleinste ondersoort van de gorilla's, met is desondanks nog steeds een primaat van uitzonderlijke grootte en sterkte. Deze soort gorilla toont sterke kenmerken van seksuele dimorfie. Ze hebben geen staart en hebben een pikzwarte huid en ruw zwart haar dat hun hele lichaam bedekt met uitzondering van het gezicht, de oren, handen en voeten. Het haar op de rug en romp van manmetjes heeft een grijze kleur die geleidelijk afneemt naarmate ze ouder worden. Deze kleuring is de reden dat oudere mannetjes bekend staan onder de naam "zilverrug". Hun handen zijn proptioneel groot en hebben lange nagels op alle vingers, net als die van een mens, en tamelijk lange duimen. Ze hebben een korte snuit, prominente wenkbrouwboog, grote neusgaten en kleine ogen en oren.
+			</cell>
+			<p />
+			<cell width="260" />
+			<cell width="620">
+				Inhoud met dank aan
+				<color r="255" g="231" b="135">
+					Wikipedia.org.
+				</color>
+				Westelijke laaglandgorilla gemaakt door The Restorers Team United, voor het Forgotten Animals-pakket.
+			</cell>
+		</text>
+	</zoopedia_gorillalowland>
+</ZT2Strings>
